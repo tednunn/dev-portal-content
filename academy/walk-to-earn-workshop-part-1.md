@@ -17,7 +17,7 @@ The workshop is split into 3 parts:
 
 **In Part I**, we'll view all the components of the project, how it works, and what the limitations are, and I will focus on hardware programming.
 
-**In Part II**, we go into the smart contracts details of this MachineFi App, describe them one by one, and deploy them to the IoTeX Testnet, to have the Blackchin side of the project ready.
+**In Part II**, we go into the smart contracts details of this MachineFi App, describe them one by one, and deploy them to the IoTeX Testnet, to have the Blockchain side of the project ready.
 
 **In Part III**, we'll learn about  W3bstream: the IoTeX real-world data computational oracle, how it receives data from devices, data verification, storage and proof generation.
 
